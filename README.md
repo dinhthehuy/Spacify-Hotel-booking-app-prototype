@@ -15,8 +15,8 @@ Spacify is a prototype designed to implement new UI designs that help users navi
 
 
 ### Executing program
-* Import the folder HCIPrototypWS23
-* Sync gradle build configuration
+* Import folder HCIPrototypWS23
+* Wait for Gradle to sync
 * Run the app 
 
 ## Contributors

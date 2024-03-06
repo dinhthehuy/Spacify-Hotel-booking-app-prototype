@@ -9,6 +9,8 @@ Spacify is a prototype designed to implement new UI designs that help users navi
 ### Screenshots
 
 ## Getting Started
+This guide helps you set up a copy of the project on your local machine and use it for development and testing purposes.
+
 
 ### Prerequisites
 * Android Studio Hedgehog
